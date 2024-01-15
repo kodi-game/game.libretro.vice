@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(vice_x64)
+project(vice)
 
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 

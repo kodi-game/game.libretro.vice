@@ -10,7 +10,7 @@ GPLv2
 
 ### Icon
 
-![Commodore - C64 (VICE x64, fast) icon](game.libretro.vice_x64/resources/icon.png)
+![Commodore - C64 (VICE x64, fast) icon](game.libretro.vice/resources/icon.png)
 
 ### Fanart
 

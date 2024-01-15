@@ -1,10 +1,10 @@
-# game.libretro.vice_x64 language file
-# Addon Name: game.libretro.vice_x64
-# Addon id: game.libretro.vice_x64
+# game.libretro.vice language file
+# Addon Name: game.libretro.vice
+# Addon id: game.libretro.vice
 # Addon Provider: libretro
 msgid ""
 msgstr ""
-"Project-Id-Version: game.libretro.vice_x64\n"
+"Project-Id-Version: game.libretro.vice\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-12-05 21:00i\n"
 "PO-Revision-Date: 2017-12-05 21:00i\n"

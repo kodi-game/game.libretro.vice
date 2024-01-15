@@ -9,7 +9,7 @@ on:
 
 jobs:
   default:
-    if: github.repository == 'kodi-game/game.libretro.vice_x64'
+    if: github.repository == 'kodi-game/game.libretro.vice'
     runs-on: ubuntu-latest
 
     steps:
