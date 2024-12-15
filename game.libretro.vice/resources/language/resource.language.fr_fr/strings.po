@@ -26,7 +26,7 @@ msgid "VICE stands for the Versatile Commodore Emulator. The current version emu
 msgstr "VICE signifie Versatile Commodore Emulator. La version actuelle émule le C64, le C64DTV, le C128, le VIC20, pratiquement tous les modèles PET, le PLUS4 et le CBM-II (aka C610/C510)."
 
 msgctxt "Addon Lifecyclestate"
-msgid "This core has been renamed."
+msgid "This add-on has been renamed."
 msgstr ""
 
 msgctxt "#30001"
