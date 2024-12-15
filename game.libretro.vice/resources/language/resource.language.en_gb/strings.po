@@ -25,7 +25,7 @@ msgid "VICE stands for the Versatile Commodore Emulator. The current version emu
 msgstr ""
 
 msgctxt "Addon Lifecyclestate"
-msgid "This core has been renamed."
+msgid "This add-on has been renamed."
 msgstr ""
 
 # Empty string with ID 30000
